@@ -84,10 +84,10 @@ Issues labeled “enhancement” and “bug” are prioritized for community con
 - **Phase 3: Feature Expansion**  
   Implementation of metadata tagging, search, licensing indicators, and asset categorization.
 
-- **Phase 4: Full On-Chain Storage (Target: Q1 2025)**  
+- **Phase 4: Full On-Chain Storage**  
   Complete migration of asset storage from temporary servers to the Irys DataChain.
 
-- **Phase 5: Mainnet Deployment (Target: Q2 2025)**  
+- **Phase 5: Mainnet Deployment**  
   Transition from Sepolia testnet to Irys mainnet, enabling permanent, economically sustainable storage.
 
 ## Usage
