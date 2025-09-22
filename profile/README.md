@@ -104,7 +104,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For inquiries, collaboration, or technical support:  
-hello@irysup.xyz
+irysupxyz@gmail.com
 
 ## Acknowledgments
 
